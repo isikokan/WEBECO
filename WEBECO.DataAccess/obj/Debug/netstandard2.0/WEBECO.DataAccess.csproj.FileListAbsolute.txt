@@ -1,0 +1,14 @@
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.Core.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.Entities.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.csprojAssemblyReference.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.AssemblyInfoInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.AssemblyInfo.cs
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.DataAccess.deps.json
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.DataAccess.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.DataAccess.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.Entities.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\bin\Debug\netstandard2.0\WEBECO.Core.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.csproj.CopyComplete
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.DataAccess\obj\Debug\netstandard2.0\WEBECO.DataAccess.pdb

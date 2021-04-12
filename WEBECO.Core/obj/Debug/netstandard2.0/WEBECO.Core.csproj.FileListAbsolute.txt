@@ -1,0 +1,9 @@
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\bin\Debug\netstandard2.0\WEBECO.Core.deps.json
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\bin\Debug\netstandard2.0\WEBECO.Core.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\bin\Debug\netstandard2.0\WEBECO.Core.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.csprojAssemblyReference.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.AssemblyInfoInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.AssemblyInfo.cs
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.csproj.CoreCompileInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Core\obj\Debug\netstandard2.0\WEBECO.Core.pdb

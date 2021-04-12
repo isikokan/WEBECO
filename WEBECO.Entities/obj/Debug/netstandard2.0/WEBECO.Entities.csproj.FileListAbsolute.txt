@@ -1,0 +1,12 @@
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\bin\Debug\netstandard2.0\WEBECO.Entities.deps.json
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\bin\Debug\netstandard2.0\WEBECO.Entities.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\bin\Debug\netstandard2.0\WEBECO.Entities.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\bin\Debug\netstandard2.0\WEBECO.Core.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\bin\Debug\netstandard2.0\WEBECO.Core.pdb
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.csprojAssemblyReference.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.AssemblyInfoInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.AssemblyInfo.cs
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.csproj.CoreCompileInputs.cache
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.csproj.CopyComplete
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.dll
+C:\Users\okan\Desktop\C#\WEBECO\WEBECO.Entities\obj\Debug\netstandard2.0\WEBECO.Entities.pdb
